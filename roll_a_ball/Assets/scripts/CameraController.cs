@@ -8,6 +8,7 @@ public class CameraController : MonoBehaviour {
 
     private Vector3 offset;
 	// Use this for initialization
+	//asd
 	void Start () {
         offset = transform.position - Sphere.transform.position;
 		
